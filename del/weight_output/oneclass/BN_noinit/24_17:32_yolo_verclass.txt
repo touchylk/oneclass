@@ -1,0 +1,3 @@
+does not init!!!
+03/24 17:32:26 Epoch: 1, Step: 20, Learning rate: 0.002, Loss: 16.472
+Speed: 0.753s/iter, Load: 0.132s/iter, Remain: 0:14:31
